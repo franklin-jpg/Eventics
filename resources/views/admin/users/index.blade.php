@@ -20,7 +20,7 @@
             <div class="flex items-center gap-2">
                 <i class="ri-arrow-right-s-line text-base text-slate-400 rtl:rotate-180"></i>
                 <a href="#" class="text-sm font-medium text-slate-700 dark:text-slate-400" aria-current="page">
-                    User
+                    Users
                 </a>
             </div>
         </div>
